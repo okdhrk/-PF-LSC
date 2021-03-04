@@ -1,4 +1,4 @@
-# 
+# LSC(Learning Support Center)
 
 ## サイト概要
 
