@@ -1,4 +1,4 @@
-# LSC(Learning Support Center)
+# Pomo's study
 
 ## サイト概要
 
